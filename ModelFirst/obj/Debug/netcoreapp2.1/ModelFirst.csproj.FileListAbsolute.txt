@@ -1,0 +1,8 @@
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\bin\Debug\netcoreapp2.1\ModelFirst.deps.json
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\bin\Debug\netcoreapp2.1\ModelFirst.runtimeconfig.json
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\bin\Debug\netcoreapp2.1\ModelFirst.runtimeconfig.dev.json
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\bin\Debug\netcoreapp2.1\ModelFirst.dll
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\obj\Debug\netcoreapp2.1\ModelFirst.csprojAssemblyReference.cache
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\obj\Debug\netcoreapp2.1\ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\obj\Debug\netcoreapp2.1\ModelFirst.AssemblyInfoInputs.cache
+C:\Users\extpiki\source\repos\ModelFirst\ModelFirst\obj\Debug\netcoreapp2.1\ModelFirst.AssemblyInfo.cs
